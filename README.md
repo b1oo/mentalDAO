@@ -1,2 +1,4 @@
 # mentalDAO
-Research &amp; Decentralized Help for Everybody
+# Research &amp; Decentralized Help for Everybody
+
+MentalDAO is a decentralized non-profit for those in need. We will research cures directly with Doctors for those who need mental health benefits. This includes something as basic as an SSRI, or more intense mental illnesses where you end up in a crisis and need more expensive treatment due to the medicine not working. This includes Ketamine treatment in legal states, but can go towards anything related even as far as rehab, and proper detox. For example, research shows that most benzos are not only addictive, but when they cut you off they cut you too fast, often leading to seizures or death. One of the few methods for quitting is the Ashton Method and it is still extremely difficult. Fitness, meditation, and other types of wellness approaches are available too. The DAO will select individuals with these specific needs and properly make sure the money goes towards that cause. 
